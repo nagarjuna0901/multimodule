@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99cce767-643f-4631-a768-5efa431c0354" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MyCompany/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/AdminApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/AdminApp/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/AdminApp/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/AdminApp/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/AdminApp/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/AdminApp/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/AdminApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/AdminApp/src/main/java/net/codejava/admin/AdminAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/AdminApp/src/main/java/net/codejava/admin/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/AdminApp/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/AdminApp/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/CustomerApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/CustomerApp/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/CustomerApp/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/CustomerApp/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/CustomerApp/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/CustomerApp/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/CustomerApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/CustomerApp/src/main/java/net/codejava/customer/CustomerAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/CustomerApp/src/main/java/net/codejava/customer/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/CustomerApp/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/CustomerApp/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/SharedLibrary/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/SharedLibrary/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/SharedLibrary/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/SharedLibrary/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/SharedLibrary/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/SharedLibrary/.settings/org.springframework.ide.eclipse.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/SharedLibrary/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/SharedLibrary/src/main/java/net/codejava/lib/CommonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/SharedLibrary/src/main/java/net/codejava/lib/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/SharedLibrary/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/SharedLibrary/target/classes/META-INF/maven/net.codejava.lib/SharedLibrary/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/SharedLibrary/target/classes/META-INF/maven/net.codejava.lib/SharedLibrary/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/SharedLibrary/target/classes/net/codejava/lib/CommonUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/SharedLibrary/target/classes/net/codejava/lib/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyCompany/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2fYMV3XXjKT4LNOdlIMphKAon0Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/test/multimodule/MultiModuleSpringBootProject/MyCompany"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99cce767-643f-4631-a768-5efa431c0354" name="Changes" comment="" />
+      <created>1713973578100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713973578100</updated>
+    </task>
+    <servers />
+  </component>
+</project>
