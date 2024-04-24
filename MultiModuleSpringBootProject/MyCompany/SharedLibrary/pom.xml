@@ -12,6 +12,7 @@
 	
 	<groupId>net.codejava.lib</groupId>
 	<artifactId>SharedLibrary</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>Shared Library</name>
 	<description>common code library</description>
 	<packaging>jar</packaging>
